@@ -79,9 +79,9 @@ PATCH /flags/{id}/
 
 ## Matching Logic
 
-* Exact match in title → 100
-* Partial match in title → 70
-* Match in body → 40
+* Exact match in title -> 100
+* Partial match in title -> 70
+* Match in body -> 40
 
 ---
 
