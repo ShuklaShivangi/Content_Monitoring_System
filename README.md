@@ -2,7 +2,7 @@
  
 ## Overview
 
-This is a Django backend system that:
+This is a Django backend system that: 
 
 * Fetches content from an external API
 * Matches it against user-defined keywords
