@@ -102,7 +102,7 @@ content.last_updated > reviewed_at
 
 ---
 
-## Sample Requests (curl)
+## Sample Requests
 
 ```bash
 # Create keyword
